@@ -7,3 +7,6 @@ Travel itinerary planner
 # Особенности
 + Frontend выполнен на фрэймворке Angular
 + Backend выполнен на фрэмворке ASP.NET Core
+
+# Пример похожего приложения
+http://myplan.travel/#login
